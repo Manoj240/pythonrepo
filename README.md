@@ -2,8 +2,8 @@
 
 ## snippets
 
-This repo has simple python function with pytests, that covers various features like mocing,
-parameterized tests and auto use mocking
+This repo has simple python function with pytests, that covers various features like mocking,
+parameterized tests and auto use in mocking
 
 Command to Invoke pytests are
 ```
